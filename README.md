@@ -5,3 +5,5 @@
 [2] Comments in HTML
 [3] TITLE tag
 [4] HEADING tags
+[5] PARAGRAPH tag
+
