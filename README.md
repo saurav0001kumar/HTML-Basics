@@ -9,3 +9,4 @@
 [6] Line BREAK tag  
 [7] Horizontal Line tag  
 [8] Alignment tag  
+[9] Font tag & it's attributes  
