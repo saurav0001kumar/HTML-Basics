@@ -8,3 +8,4 @@
 [5] PARAGRAPH tag  
 [6] Line BREAK tag  
 [7] Horizontal Line tag  
+[8] Alignment tag  
