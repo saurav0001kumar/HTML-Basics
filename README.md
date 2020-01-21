@@ -10,3 +10,4 @@
 [7] Horizontal Line tag  
 [8] Alignment tag  
 [9] Font tag & it's attributes  
+[10] Other Font styles - bold, italic, superscript & subscript, etc.  
